@@ -1,2 +1,2 @@
 # C++ playground
-This repository contains examples of C++ language features.
+This repository contains examples of C++ standard library and language features.
