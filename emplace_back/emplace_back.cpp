@@ -4,7 +4,7 @@
 struct Foo {
     int a;
     std::string s;
-    
+
     Foo(int _a, const std::string& _s) : a{ _a }, s{ _s } { }
 };
 
