@@ -3,7 +3,7 @@
 
 int main()
 {
-    std::function<bool(int, int)> less{ std::greater<int>{ } };
-    std::cout << less(1, 10) << '\n' << less(20, 2) << '\n';
+    std::function<bool(int, int)> greater{ std::greater<int>{ } };
+    std::cout << greater(1, 10) << '\n' << greater(20, 2) << '\n';
     return 0;
 }
