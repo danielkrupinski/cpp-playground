@@ -1,8 +1,6 @@
-class Foo final {
+class Foo final;
 
-};
-
-// class Bar : public Foo { }; error!
+// class Bar : public Foo { }; error! can't inherit from final function
 
 int main()
 {
