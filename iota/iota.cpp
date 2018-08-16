@@ -5,5 +5,6 @@
 
 int main()
 {
-
+    std::vector<int> v(10);
+    return 0;
 }
