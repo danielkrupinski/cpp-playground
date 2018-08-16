@@ -2,5 +2,5 @@
 
 class Foo {
 public:
-    void foo() { std::cout << "Foo::foo()\n"; }
+    virtual void foo() { std::cout << "Foo::foo()\n"; }
 };
