@@ -1,5 +1,6 @@
 #include <iostream>
 #include <functional>
+#include <numeric>
 #include <vector>
 
 int main()
