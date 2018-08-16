@@ -4,5 +4,6 @@
 
 int main()
 {
+    std::vector<std::reference_wrapper<int>> v;
     return 0;
 }
