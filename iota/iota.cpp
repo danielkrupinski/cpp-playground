@@ -6,5 +6,6 @@
 int main()
 {
     std::vector<int> v(10);
+    std::iota(v.begin(), v.end(), 0);
     return 0;
 }
