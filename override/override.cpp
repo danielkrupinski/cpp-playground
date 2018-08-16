@@ -12,5 +12,9 @@ public:
 
 int main()
 {
+    Foo foo;
+    foo.foo();
+    Bar bar;
+    bar.foo();
     return 0;
 }
